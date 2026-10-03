@@ -1,6 +1,8 @@
 # Bean There Café
 
-A simple static café website for Bean There Café, featuring a home page, menu, gallery, about section, and contact information.
+A simple static café website for Bean There Café, featuring a home page, menu, gallery, about section, and contact information. See the live website at [text](https://beanthere-cafe.netlify.app/)
+
+
 
 ## Overview
 
